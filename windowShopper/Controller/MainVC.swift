@@ -45,7 +45,6 @@ class MainVC: UIViewController {
                 resultLbl.text = "\(Wage.getHours(forWage: wage, andPrice: price))"
                 
             }
-            
         }
     }
     
